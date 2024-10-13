@@ -16,7 +16,7 @@ Before running the script, ensure the following:
    Clone this repository to your Raspberry Pi 5:
 
    ```bash
-   git clone https://github.com/yourusername/ros2_humble_rpi5.git
+   git clone https://github.com/ozandmrz/ros2_raspberry_pi_5/tree/main
    cd ros2_humble_rpi5
    ```
 
